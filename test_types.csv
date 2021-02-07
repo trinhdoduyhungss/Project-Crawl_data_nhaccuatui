@@ -1,0 +1,59 @@
+text,intent,tag
+trẻ,inform,B-inform#type
+thể loại trẻ,inform,O O B-inform#type
+remix việt sàn việt,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại remix việt sàn việt,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
+rap việt,inform,B-inform#type I-inform#type
+thể loại rap việt,inform,O O B-inform#type I-inform#type
+tiền chiến,inform,B-inform#type I-inform#type
+thể loại tiền chiến,inform,O O B-inform#type I-inform#type
+trịnh công sơn,inform,B-inform#type I-inform#type I-inform#type
+thể loại trịnh công sơn,inform,O O B-inform#type I-inform#type I-inform#type
+rock việt,inform,B-inform#type I-inform#type
+thể loại rock việt,inform,O O B-inform#type I-inform#type
+cách mạng,inform,B-inform#type I-inform#type
+thể loại cách mạng,inform,O O B-inform#type I-inform#type
+pop english tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại pop english tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
+rock english tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại rock english tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
+electronica dance english điện tử tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+thể loại electronica dance english điện tử tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+R&B R and B Hiphop Rap english rap tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+thể loại R&B R and B Hiphop Rap english rap tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+blues jazz english jazz tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+thể loại blues jazz english jazz tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+country english đồng quê tiếng anh,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+thể loại country english đồng quê tiếng anh,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+latin,inform,B-inform#type
+thể loại latin,inform,O O B-inform#type
+indie,inform,B-inform#type
+thể loại indie,inform,O O B-inform#type
+hàn quốc korea,inform,B-inform#type I-inform#type I-inform#type
+thể loại hàn quốc korea,inform,O O B-inform#type I-inform#type I-inform#type
+trung hoa trung quốc china chinese,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+thể loại trung hoa trung quốc china chinese,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type
+nhật bản japan japanese,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại nhật bản japan japanese,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
+trẻ không lời,inform,B-inform#type I-inform#type I-inform#type
+thể loại trẻ không lời,inform,O O B-inform#type I-inform#type I-inform#type
+trẻ việt v-pop v pop vpop không lời beat nhạc,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type O
+thể loại trẻ việt v-pop v pop vpop không lời beat nhạc,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type O
+trẻ việt v-pop v pop vpop nhạc cover,inform,B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type O I-inform#type
+thể loại trẻ việt v-pop v pop vpop nhạc cover,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type I-inform#type I-inform#type O I-inform#type
+hải ngoại,inform,B-inform#type I-inform#type
+thể loại hải ngoại,inform,O O B-inform#type I-inform#type
+bolero,inform,B-inform#type
+thể loại bolero,inform,O O B-inform#type
+piano,inform,B-inform#type
+thể loại piano,inform,O O B-inform#type
+guitar acoustic việt,inform,B-inform#type I-inform#type I-inform#type
+thể loại guitar acoustic việt,inform,O O B-inform#type I-inform#type I-inform#type
+coffee english guitar acoustic,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại coffee english guitar acoustic,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
+chill out,inform,B-inform#type I-inform#type
+thể loại chill out,inform,O O B-inform#type I-inform#type
+trẻ song ca,inform,B-inform#type I-inform#type I-inform#type
+thể loại trẻ song ca,inform,O O B-inform#type I-inform#type I-inform#type
+trữ tình song ca,inform,B-inform#type I-inform#type I-inform#type I-inform#type
+thể loại trữ tình song ca,inform,O O B-inform#type I-inform#type I-inform#type I-inform#type
